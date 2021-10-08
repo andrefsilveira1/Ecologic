@@ -1,0 +1,32 @@
+.Box{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.conteudo{
+    height: 700px;
+    width: 1000px;
+    background: rgba( 255, 255, 255, 0.25 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 3px );
+    -webkit-backdrop-filter: blur( 3px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    margin-bottom: 100px;
+}
+hr{
+    margin-top: 200px;
+    width: 98%;
+    margin: 1.6em 20px;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 2px;
+    margin-bottom: 50px;
+}

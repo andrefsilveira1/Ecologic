@@ -1,0 +1,35 @@
+footer{
+    display: flex;
+    height: 100px;
+    background-color: black;
+    position: relative;
+    justify-content: space-between;
+}
+.nav{
+    top: 0;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;  
+}
+a{
+    margin-right: 15px;
+    text-decoration: none;
+    color: grey;
+}
+footer a:hover{
+    color: white;
+    transition: 0.3s;
+}
+footer .ico{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    transition: 0.7s;
+}
+footer .ico:hover{
+    transform: scale(1.1);
+    transition-duration: 0.7s;
+}
+links{
+    margin-left: 10px;
+}
