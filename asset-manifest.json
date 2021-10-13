@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Ecologic/static/css/main.c5964183.chunk.css",
-    "main.js": "/Ecologic/static/js/main.92148385.chunk.js",
-    "main.js.map": "/Ecologic/static/js/main.92148385.chunk.js.map",
+    "main.css": "/Ecologic/static/css/main.2570f9db.chunk.css",
+    "main.js": "/Ecologic/static/js/main.666eb960.chunk.js",
+    "main.js.map": "/Ecologic/static/js/main.666eb960.chunk.js.map",
     "runtime-main.js": "/Ecologic/static/js/runtime-main.c34f2ff7.js",
     "runtime-main.js.map": "/Ecologic/static/js/runtime-main.c34f2ff7.js.map",
     "static/js/2.f95be6f4.chunk.js": "/Ecologic/static/js/2.f95be6f4.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.11e5abff.chunk.js": "/Ecologic/static/js/3.11e5abff.chunk.js",
     "static/js/3.11e5abff.chunk.js.map": "/Ecologic/static/js/3.11e5abff.chunk.js.map",
     "index.html": "/Ecologic/index.html",
-    "static/css/main.c5964183.chunk.css.map": "/Ecologic/static/css/main.c5964183.chunk.css.map",
+    "static/css/main.2570f9db.chunk.css.map": "/Ecologic/static/css/main.2570f9db.chunk.css.map",
     "static/js/2.f95be6f4.chunk.js.LICENSE.txt": "/Ecologic/static/js/2.f95be6f4.chunk.js.LICENSE.txt",
     "static/media/forest2.d30941d4.png": "/Ecologic/static/media/forest2.d30941d4.png",
     "static/media/nature3.fcf47b62.jpg": "/Ecologic/static/media/nature3.fcf47b62.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.c34f2ff7.js",
     "static/js/2.f95be6f4.chunk.js",
-    "static/css/main.c5964183.chunk.css",
-    "static/js/main.92148385.chunk.js"
+    "static/css/main.2570f9db.chunk.css",
+    "static/js/main.666eb960.chunk.js"
   ]
 }
