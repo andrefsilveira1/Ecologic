@@ -19,7 +19,6 @@ export default function Home(){
                             <li><Link to="/sobre">Sobre</Link></li>
                             <li><Link to="/projeto">Projeto</Link></li>
                             <li><Link to="/mapa">Pontos de Coleta</Link></li>
-                            <li><Link to="/habilidades">Habilidades</Link></li>
                         </ul>
                     </nav>
                 </div>

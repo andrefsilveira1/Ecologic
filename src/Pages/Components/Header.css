@@ -62,3 +62,14 @@
     background-color:#fff;
     display:none;
 }
+@media (max-width:600px){
+    .banner{
+        width: 480px;
+    }
+    .banner_img img{
+        width: 480px;
+    }
+    .banner_img{
+        width: 480px;
+    }
+}

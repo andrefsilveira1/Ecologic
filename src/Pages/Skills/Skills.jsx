@@ -1,11 +1,8 @@
 import React from 'react'
-import Footer from "../Components/Footer"
 import "./Skills.css"
-import Header from "../Components/Header"
 export default function Skills(){
     return(
         <>
-            <Header title="Habilidades"/>
             <div className="drop-box">
                 <div className="inside">
                     <h2>Habilidades</h2>
@@ -36,11 +33,18 @@ export default function Skills(){
                                 <td>C++</td>
                                 <td>60%</td>
                             </tr>
+                            <tr>
+                                <td>Dançar</td>
+                                <td>90%</td>
+                            </tr>
+                            <tr>
+                                <td>Carisma</td>
+                                <td>500%</td>
+                            </tr>
                         </table>
                     </div>
                 </div>
             </div>
-            <Footer/>
         </>
     )
 }

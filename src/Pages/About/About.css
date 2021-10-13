@@ -9,7 +9,7 @@
     height: 700px;
     width: 1000px;
     background: rgba( 255, 255, 255, 0.25 );
-    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    box-shadow: 0 8px 32px 0 rgba(163, 163, 163, 0.37);
     backdrop-filter: blur( 3px );
     -webkit-backdrop-filter: blur( 3px );
     border-radius: 10px;
@@ -18,7 +18,7 @@
 }
 hr{
     margin-top: 200px;
-    width: 98%;
+    width: 97.5%;
     margin: 1.6em 20px;
 }
 h3{
@@ -29,4 +29,25 @@ p{
     font-family: Arial, Helvetica, sans-serif;
     margin-left: 2px;
     margin-bottom: 50px;
+}
+@media (max-width:600px){
+    .conteudo{
+        line-height: 25px;
+        font-size: 15px;
+        width: 430px;
+        height: 1000px;
+    }
+    hr{
+        width: 91%;
+    }
+    p{
+        margin-right: 2px;
+    }
+}
+@media (min-width: 700px){
+    .conteudo{
+        line-height: 30px;
+        width: 800px;
+        height: 800px;
+    }
 }
