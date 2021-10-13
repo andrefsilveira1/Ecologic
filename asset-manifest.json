@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/andrefsilveira1/Ecologic-build/static/css/main.c5964183.chunk.css",
+    "main.js": "/andrefsilveira1/Ecologic-build/static/js/main.98dbc35f.chunk.js",
+    "main.js.map": "/andrefsilveira1/Ecologic-build/static/js/main.98dbc35f.chunk.js.map",
+    "runtime-main.js": "/andrefsilveira1/Ecologic-build/static/js/runtime-main.3695824c.js",
+    "runtime-main.js.map": "/andrefsilveira1/Ecologic-build/static/js/runtime-main.3695824c.js.map",
+    "static/js/2.f95be6f4.chunk.js": "/andrefsilveira1/Ecologic-build/static/js/2.f95be6f4.chunk.js",
+    "static/js/2.f95be6f4.chunk.js.map": "/andrefsilveira1/Ecologic-build/static/js/2.f95be6f4.chunk.js.map",
+    "static/js/3.11e5abff.chunk.js": "/andrefsilveira1/Ecologic-build/static/js/3.11e5abff.chunk.js",
+    "static/js/3.11e5abff.chunk.js.map": "/andrefsilveira1/Ecologic-build/static/js/3.11e5abff.chunk.js.map",
+    "index.html": "/andrefsilveira1/Ecologic-build/index.html",
+    "static/css/main.c5964183.chunk.css.map": "/andrefsilveira1/Ecologic-build/static/css/main.c5964183.chunk.css.map",
+    "static/js/2.f95be6f4.chunk.js.LICENSE.txt": "/andrefsilveira1/Ecologic-build/static/js/2.f95be6f4.chunk.js.LICENSE.txt",
+    "static/media/forest2.d30941d4.png": "/andrefsilveira1/Ecologic-build/static/media/forest2.d30941d4.png",
+    "static/media/nature3.fcf47b62.jpg": "/andrefsilveira1/Ecologic-build/static/media/nature3.fcf47b62.jpg",
+    "static/media/profileico.dfb3163e.JPG": "/andrefsilveira1/Ecologic-build/static/media/profileico.dfb3163e.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3695824c.js",
+    "static/js/2.f95be6f4.chunk.js",
+    "static/css/main.c5964183.chunk.css",
+    "static/js/main.98dbc35f.chunk.js"
+  ]
+}
