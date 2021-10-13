@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/andrefsilveira1/Ecologic-build/static/css/main.dd681564.chunk.css",
+    "main.js": "/andrefsilveira1/Ecologic-build/static/js/main.e404563f.chunk.js",
+    "main.js.map": "/andrefsilveira1/Ecologic-build/static/js/main.e404563f.chunk.js.map",
+    "runtime-main.js": "/andrefsilveira1/Ecologic-build/static/js/runtime-main.88253972.js",
+    "runtime-main.js.map": "/andrefsilveira1/Ecologic-build/static/js/runtime-main.88253972.js.map",
+    "static/css/2.8d682a32.chunk.css": "/andrefsilveira1/Ecologic-build/static/css/2.8d682a32.chunk.css",
+    "static/js/2.2056f585.chunk.js": "/andrefsilveira1/Ecologic-build/static/js/2.2056f585.chunk.js",
+    "static/js/2.2056f585.chunk.js.map": "/andrefsilveira1/Ecologic-build/static/js/2.2056f585.chunk.js.map",
+    "static/js/3.2b4b9310.chunk.js": "/andrefsilveira1/Ecologic-build/static/js/3.2b4b9310.chunk.js",
+    "static/js/3.2b4b9310.chunk.js.map": "/andrefsilveira1/Ecologic-build/static/js/3.2b4b9310.chunk.js.map",
+    "index.html": "/andrefsilveira1/Ecologic-build/index.html",
+    "static/css/2.8d682a32.chunk.css.map": "/andrefsilveira1/Ecologic-build/static/css/2.8d682a32.chunk.css.map",
+    "static/css/main.dd681564.chunk.css.map": "/andrefsilveira1/Ecologic-build/static/css/main.dd681564.chunk.css.map",
+    "static/js/2.2056f585.chunk.js.LICENSE.txt": "/andrefsilveira1/Ecologic-build/static/js/2.2056f585.chunk.js.LICENSE.txt",
+    "static/media/forest2.d30941d4.png": "/andrefsilveira1/Ecologic-build/static/media/forest2.d30941d4.png",
+    "static/media/nature3.fcf47b62.jpg": "/andrefsilveira1/Ecologic-build/static/media/nature3.fcf47b62.jpg",
+    "static/media/profileico.dfb3163e.JPG": "/andrefsilveira1/Ecologic-build/static/media/profileico.dfb3163e.JPG",
+    "static/media/setgps.f99981e2.png": "/andrefsilveira1/Ecologic-build/static/media/setgps.f99981e2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88253972.js",
+    "static/css/2.8d682a32.chunk.css",
+    "static/js/2.2056f585.chunk.js",
+    "static/css/main.dd681564.chunk.css",
+    "static/js/main.e404563f.chunk.js"
+  ]
+}
